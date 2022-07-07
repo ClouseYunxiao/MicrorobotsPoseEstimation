@@ -57,7 +57,7 @@ We have set densenet and resnet as the baseline models
 * Our model achieves the following performance:
 
 |   With Bayesian Optimization   |  test1(Micron)  |     test2(Micron)    |        test3(Micron)       | mean ± std |
-| :-----------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
+| :-----------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 |      microplatform(trail A)    |       0.278       |      0.265       |       0.284      |   0.2757 ± 0.0097   |
 |      microplatform(trail B)    |       0.307       |      0.310      |       0.301      |   0.306 ± 0.0046    |
 |      microrobot(trail C)    |       0.281      |      0.271       |       0.204      |   0.252 ± 0.0419    |
