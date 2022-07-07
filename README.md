@@ -56,14 +56,14 @@ python evaluate.py
 We have set densenet and resnet as the baseline models
 * Our model achieves the following performance:
 
-|   With Bayesian Optimization   |  test1(Micron)  |     test2(Micron)    |        test3(Micron)       | mean ± std |
+|   With Bayesian Optimization   |  test1(µm)  |     test2(µm)    |        test3(µm)       | mean ± std |
 | :-----------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 |      microplatform(trail A)    |       0.278       |      0.265       |       0.284      |   0.2757 ± 0.0097   |
 |      microplatform(trail B)    |       0.307       |      0.310      |       0.301      |   0.306 ± 0.0046    |
 |      microrobot(trail C)    |       0.281      |      0.271       |       0.204      |   0.252 ± 0.0419    |
 |      microrobot(trail D)    |       0.292       |      0.286      |       0.222     |   0.2667 ± 0.0388    |
 
-|   With Bayesian Optimization   |  test1(Micron)  |     test2(Micron)    |        test3(Micron)       | mean ± std |
+|   With Bayesian Optimization   |  test1(µm)  |     test2(µm)    |        test3(µm)       | mean ± std |
 | :-----------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 |      microplatform(trail A)    |       0.563       |      0.548       |       0.567      |   0.5593 ± 0.01     |
 |      microplatform(trail B)    |       0.484       |      0.463      |       0.495      |   0.4807 ± 0.0163    |
